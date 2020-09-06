@@ -1,0 +1,937 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	
+	
+    <link rel="canonical" href="https://www.ventureblog.com/" />
+
+
+
+        <link rel="stylesheet" href="https://www.ventureblog.com/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'VentureBlog' (Atom)" href="https://www.ventureblog.com/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'VentureBlog' (RSS 1.0)" href="https://www.ventureblog.com/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'VentureBlog' (RSS 2.0)" href="https://www.ventureblog.com/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d8341d157b53ef013480cdd6f4970c');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="VentureBlog" />
+<meta property="og:site_name" content="VentureBlog" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.ventureblog.com/" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up3.typepad.com/6a00d8341d157b53ef012875c0d78a970c-220si" />
+
+
+
+	<title>VentureBlog</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d8341d157b53ef013480cdd6f4970c" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://hornik.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-two-column-left index">
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+    FB.init( { apiKey: 'a279adbe87e2b3c505e777af99a5260d', xfbml: true, version: 'v2.8' } );
+};
+( function() {
+    var e = document.createElement( 'script' ); e.async = true;
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
+    document.getElementById( 'fb-root' ).appendChild( e );
+} )();
+</script>
+
+	
+	<div id="container" class="container">
+		<div id="container-inner" class="pkg">
+			
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://www.ventureblog.com/" accesskey="1">VentureBlog</a></h1>
+		<h2 id="banner-description">
+			
+		</h2>
+	</div>
+</div>
+
+
+
+
+
+
+<div id="pagebody">
+
+
+				<div id="pagebody-inner" class="pkg">
+                                        <div id="alpha">
+						<div id="alpha-inner" class="pkg">
+							<!-- sidebar -->
+
+
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<script type="text/javascript">
+var disqus_shortname = 'ventureblog';
+
+// DON'T EDIT BELOW THIS LINE
+(function () {
+    var loaded = false;
+    function loadDisqus() {
+        if (loaded) return;
+        loaded = true;
+        var div = document.getElementById('all-comments');
+        div.innerHTML = ''; div.id = 'disqus_thread';
+
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = false;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+
+    }
+
+    if ( document.getElementById('all-comments') || document.readyState === "complete" ) {
+	return setTimeout( loadDisqus, 1 );
+    }
+
+    if ( document.addEventListener ) {
+        document.addEventListener( "DOMContentLoaded", loadDisqus, false );
+        window.addEventListener( "load", loadDisqus, false );
+    } else if ( document.attachEvent ) {
+        document.attachEvent( "onreadystatechange", loadDisqus );
+        window.attachEvent( "onload", loadDisqus);
+    }
+}());
+</script>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<div class="about-text"><strong>Perspective, Pontification and Propoganda about Entrepreneurship and Venture Capital, brought to you by David Hornik of August Capital.</strong></div>
+
+<ul class="follow-links">
+<li class="typepad"><a href="http://profile.typepad.com/davidhornik">Follow me on TypePad</li>
+<li class="twitter"><a href="https://twitter.com/davidhornik">Follow me on Twitter</li>
+<li class="rss"><a href="https://www.ventureblog.com/atom.xml">Subscribe to VentureBlog</li>
+<li class="rss"><a href="https://feeds.feedburner.com/venturecast">Subscribe to VentureCast</a></li>
+</ul>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<div class="browse"><a href="http://hornik.typepad.com/vb/archives.html">Browse the archives</a> or...</div>
+
+<div class="search">
+        <form id="search-blog" method="get" action="https://www.ventureblog.com/.services/blog/6a00d8341d157b53ef013480cdd6f4970c/search">
+            <input type="search" name="filter.q" results="5" value="search" onclick="this.value=''" />
+    <input class="search=submit" value="go" type="submit"> 
+
+
+</div>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+
+
+
+
+						</div>
+					</div>
+                                        <div id="beta">
+						<div id="beta-inner" class="pkg">
+							
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-entrepreneurial_success entry-category-internet_infrastructure entry-category-software entry-category-vcs_around_the_web entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef01bb08f7252f970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2016/05/welcome-villi.html">Welcome Villi</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>The venture business is a strange profession. It doesn’t require a single skill or discipline. It requires a range of expertise. Great venture capitalists have extensive networks built on top of meaningful relationships. They have a broad understanding of technology and a good sense of what’s coming next. They are thoughtful operators who can help advise executives. They have a strong deal sense and are able to get stuff done. And they understand people and can motivate those around them. Finding one individual who can meet all these criteria is a huge challenge for any venture firm looking to add to their team.</p>
+<p>Given these challenging criteria, it is not terribly surprising that we have spent nearly two years at August Capital looking for just the right person. So It is with great excitement that I introduce the newest member of our team — <a href="https://www.linkedin.com/in/villi04">Villi Iltchev</a>. Villi has spent the last dozen years helping to build amazing technology companies. He is joining us directly from a stint as head of strategy and corporate development at Box. Before that he served as Vice President of Corporate Development and Strategy for Salesforce. In both of those positions, Villi was given the mandate to explore a broad range of technology companies, investing in some and acquiring others. That experience served as the perfect precursor to the venture business.</p>
+<p>As impressive as Villi is as a business leader, we were particularly excited to have him join us after we got to know him as a person. Villi is a wonderful guy who cares deeply about relationships. He has learned the power of betting on great people, as others had bet on him along the way. Villi spent his early childhood in Bulgaria, but his family migrated to Greece in search of greater freedom and opportunity. His parents sacrificed everything to provide a better childhood for Villi. He saw even greater opportunity across the ocean and found his way to the US for boarding school, then college, then business school. In every instance, he had amazing mentors who helped a smart kid from Bulgaria succeed. And Villi has carried that with him. He is now a great mentor to up and coming entrepreneurs from all walks of life. Ultimately, he believes in the power of people in the same way that others have believed in him.</p>
+<p>We couldn’t be more excited to have Villi joining us at August. His insight into the software and SaaS world is spectacular. He’s demonstrated great foresight when it comes to the future of technology. And he has a wonderful community of entrepreneurs and executives who count him as a friend. We are lucky to have Villi around the table and look forward to collaborating with him for many years to come.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">05/05/2016 in <a href="https://www.ventureblog.com/entrepreneurial-success/">Entrepreneurial Success</a>, <a href="https://www.ventureblog.com/internet-infrastructure/">Internet Infrastructure</a>, <a href="https://www.ventureblog.com/software/">Software</a>, <a href="https://www.ventureblog.com/vcs-around-the-web/">VCs Around The Web</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2016/05/welcome-villi.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2016/05/welcome-villi.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-the_deal entry-category-the_economy_finance entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef01bb07eea4d1970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2015/02/announcing-august-vii.html">Announcing August VII</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>I am extremely excited to announce that my partners at August Capital and I have raised a new fund. This fund is the seventh in August Capital’s twenty year history. And while the venture capital industry has seen a fair amount of change over the last twenty years, our approach to the venture business has remained quite consistent. We believe that the venture capital business is, by its nature, a boutique business. And we believe that venture capitalists are in the business of helping to make entrepreneurs successful, and not vice versa. August VII will follow in that tradition. We look forward to supporting amazing entrepreneurs building game changing businesses.<br /><br />The raising of August VII also marks my 15th year in the venture business. I have seen stunning ups and downs in the economy over the last fifteen years. And I have seen stunning ups and downs in the venture capital industry. The VC business was left for dead in the early 2000’s. In fact, the first decade of the 21st century was marked by net negative returns across the vast majority of the venture industry. Yet venture capital came roaring back with the economy. <br /><br />The first half of this decade has been marked by ever bigger financings and ever bigger venture capital firms. Yet, as we approached the raising of August VII, we sat down as a partnership and asked ourselves what we wanted our new fund to look like. Did we want to raise a billion dollar fund and jump on the “ever bigger” band wagon? Or did we want to stick to our knitting and focus on what we do best — supporting a manageable number of great entrepreneurs as they navigate the challenges of building game changing businesses? The answer to us was clear.<br /><br />In December we approached our existing investors with a blue print for August VII. Rather than raise two separate funds, as we had done before (an early stage fund and a special opportunities fund), we decided to raise a single fund that would focus on spectacular entrepreneurs independent of stage. We also decided that we would raise a cozy $400 million dollars, which would give each of our 5 General Partners about $80 million dollars to invest over the coming years. August’s seven funds have ebbed and flowed over the years, but have always been about $80 to $100 million per investing partner. It may not be everyone’s sweet spot, but it certainly is ours. And it has been a winning formula that has delivered meaningful returns to our investors over our lifetime. <br /><br />Despite the fact that we started the fundraising process right before the holidays, we were thrilled to see that our Limited Partners shared our philosophy about the venture business. We had some fantastic conversations with our investors in December and January. They remain as bullish about the tech economy as are we. And in just under two months, we were able to close our seventh fund. Our biggest challenge was figuring out how to squeeze hundreds of millions of dollars of interest into a $400 million fund. In the end, we had to expand the fund a little bit, so as not to disappoint our long-time supporters — we closed a $450 million fund the last day of January.<br /><br />As excited as we are about closing our new fund so that we can get back to supporting great entrepreneurs, we are particularly thrilled to do so along side our new partner Tripp Jones. Tripp joined us a few short years ago and in that time has proven to be a thoughtful investor and steadfast supporter of the entrepreneurs he backs. Tripp has invested in such great companies as Paperless Post, WattPad and Adara, and will no doubt find world class entrepreneurs and breakthrough companies in which to invest in August VII. I join Tripp, along with Vivek Mehra, Howard Hartenbaum and Eric Carlborg as General Partners in our new fund. Our partners Dave Marquardt and John Johnston will continue to play the role of Founding Partners and support our existing portfolio. August Capital would not be what it is today without the incredible stewardship of John and Dave, and we are grateful to have their ongoing participation and support.<br /><br />I am repeatedly surprised that it is news in the tech world when a venture capital firm has raised a new fund. After all, venture funds are merely a means to an end. As VCs, our job is to find spectacular entrepreneurs and help make them successful. Of course, first and foremost, we help entrepreneurs by giving them the capital they need to build big businesses. So we are thrilled to have raised August VII and look forward to working with more amazing people solving valuable problems. My partners and I consider it a great privilege to work with entrepreneurs day in and day out, and we are excited to continue that tradition with August VII.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">02/11/2015 in <a href="https://www.ventureblog.com/the-deal/">The Deal</a>, <a href="https://www.ventureblog.com/the-economy-finance/">The Economy & Finance</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2015/02/announcing-august-vii.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2015/02/announcing-august-vii.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-consumer_internet_media entry-category-entrepreneurial_success entry-category-management_issues entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef01b8d066631c970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2014/09/patience-is-a-virtue.html">Patience is a Virtue!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>My grandmother used to tell me, my brother and sister that “patience is a virtue.” Of course, she used to say it while we were playing gin rummy and she was taking too long to drop a card. But her point was not lost on the Hornik siblings. My grandmother was not willing to rush something for the sake of moving on. She believed in being thoughtful and deliberate and making the best possible choices no matter how long it took. Thanks for the lesson, grandma! Duly noted.<br />&#0160;<br />Today we announced that Rakuten has entered into an agreement to <a href="http://techcrunch.com/2014/09/09/rakuten-buys-ebates-for-1-billion/" target="_blank">purchase Ebates</a> for a billion dollars. I have been extolling the virtues of Ebates for the last 14 years, since August first invested in the company and I began attending board meetings. Ebates is an amazing company built by amazing people and I could not be happier to have been along for this decade and a half long ride. It was worth every minute. <br />&#0160;<br />Ebates is a platform for retailers to acquire customers through cash rebates and for consumers to save money on purchases from some of their favorite online stores. Ebates is a win win. And, as a result, it has been growing steadily for the last 16 years. We first invested in Ebates in March of 2000 (along side Canaan Partners). By that time, Ebates’ two founders had already been hard at work building the company for a couple of years (Ebates was initially incubated at Foundation Capital). Ebates’ founders, Paul Wasserman and Alessandro Isolani, were attorneys who decided to leave the wonderful world of criminal law to start a dot com. There was a lot of that going on at the time. The only difference between most of those companies and Ebates is that when the bubble burst, Paul and Sandro had the good sense to hunker down and focus on not running out of money. Which is precisely what they did. They built a cash-positive business that continued to grow and provide real value to their customers.<br />&#0160;<br />Over the better part of the 2000’s, Ebates continued to grow its footprint. An increasingly large number of consumers were collecting cash back from an ever-larger range of online stores. What’s more, not only did Ebates hang onto the consumers it signed up in the early 2000’s, those consumers were spending more than ever before. With double digit millions in the bank and a decade of growth behind them, the founders decided to hand over the reigns of the company to an expert marketer. <br />&#0160;<br />We had the amazing good fortune to attract Kevin Johnson to the company in 2008. Having spent time as an executive at the likes of Netcentives, Digital Impact and Acxiom, Kevin was the perfect guy to take the reigns. He focused the company on providing real, measurable value for e-commerce partners, which in turn created greater value for consumers, which in turn created greater value for e-commerce partners, which in turn … you get the point. Kevin also put his marketing hat on and built an acquisition machine that has driven massive growth for the company. Along the way, Kevin attracted one of the best teams we’ve had the opportunity to work with at August Capital.<br />&#0160;<br />In 2012, we decided to double down on the Ebates team. Ebates had a number of great acquisition opportunities before them and they decided to raise some additional capital to take advantage of their strong position in the market. Spearheaded by my partners Eric Carlborg and Tripp Jones, we led a late stage financing for the company (along side Canaan and Foundation again) to enable those acquisitions and drive growth, and in the process August became Ebates&#39; largest shareholder. We were honored to lead that charge and emerged the largest shareholders in the company. Kevin proceeded to put that capital to good use, purchasing fatwallet, Extrabux, Pushpins, OneReceipt, AnyCoupons and BFAds, and launching Ebates Canada, Ebates China and Ebates Korea. And with each purchase and each launch, Ebates has become larger and more valuable. It has been an amazing journey to be a part of.<br />&#0160;<br />Great entrepreneurs have the ability to choose with whom they want to work. And each entrepreneur applies a different set of criteria when making that decision. I have always told entrepreneurs to choose wisely because taking an investment is a little bit like a marriage. That has never been clearer than with Ebates. This summer I celebrated my 20th wedding anniversary and my 14th Ebates anniversary. While Rakuten has whisked Ebates away from me, I am incredibly grateful for the time I have spent with Paul, Sandro, Kevin and the entire Ebates team. I’ll miss you guys. Congratulations!</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">09/09/2014 in <a href="https://www.ventureblog.com/consumer-internet-media/">Consumer Internet & Media</a>, <a href="https://www.ventureblog.com/entrepreneurial-success/">Entrepreneurial Success</a>, <a href="https://www.ventureblog.com/management-issues/">Management Issues</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2014/09/patience-is-a-virtue.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2014/09/patience-is-a-virtue.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-entrepreneurial_success entry-category-management_issues entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef019aff70a585970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/09/want-to-get-funded-get-an-introduction.html">Want to get funded?  Get an introduction!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				The other day when I was giving a talk I was asked the simplest of simple questions -- &quot;how do you get funded by a VC?&quot;&#0160; I thought about it and could only come up with one, for sure, piece of advice.&#0160; Get introduced!&#0160; I told the audience that in my 13 years in the venture business I had never once funded a company that hadn&#39;t been introduced to me by someone I knew and trusted.&#0160; <br /><br />I suspect that in my 13 years years or so in the venture business I have received somewhere on the order of 5,000 executive summaries directly from founders.&#0160; And, as I told the audience, I didn&#39;t reject the businesses out of hand.&#0160; I read all 5,000 executive summaries.&#0160; I met with some of those entrepreneurs too.&#0160; Yet, I didn&#39;t fund a single one of them.&#0160; <br /><br />A member of the audience asked if perhaps I was biased against entrepreneurs I didn&#39;t know, or who didn&#39;t know someone I knew.&#0160; It was certainly a reasonable question.&#0160; I thought about it and responded that I thought the reason I hadn&#39;t invested in those companies was that the founders were not resourceful enough to find a connection to me.&#0160; <br /><br />But it got me thinking.&#0160; Maybe I was biased.&#0160; Maybe I was missing out on some great businesses because I wasn&#39;t giving them a fair shot.&#0160; I decided to see if I was the only one.&#0160; I started asking my fellow VCs if they had funded any companies that had come to them un-introduced.&#0160; And it turned out that the answer was &quot;no.&quot;&#0160; No one I asked had funded a company without some sort of introduction.&#0160; While they all agreed that it wasn&#39;t out of the question, and most of them still read unsolicited executive summaries (as do I), not one VC had funded an un-introduced business.&#0160; Not one of them.<br /><br />So how do you get funded?&#0160; Step one -- get an introduction.&#0160; Find someone you know who can introduce you to the person you want to pitch.&#0160; The closer your relationship with the person making the introduction, the better.&#0160; And the closer that person&#39;s relationship with the VC the better.&#0160; I&#39;ve <a href="https://www.ventureblog.com/2011/01/startup-advice-how-entrepeneurs-gain-credibility.html" target="_self" title="How Entrepreneurs Gain Credibility">written about this before</a> and described it as &quot;borrowed credibility.&quot;&#0160; If you are being introduced by someone who has credibility with the VC, and you have credibility with the person making the introduction, you will have credibility with the VC.&#0160; <br /><br />I learned about this in elementary school math class -- it is called the transitive property:<br /><br />&#0160;&#0160;&#0160; &#0160;&#0160;&#0160; if<br /><br />&#0160;&#0160;&#0160; A has credibility with B<br />&#0160;<br />&#0160;&#0160;&#0160; &#0160;&#0160;&#0160; and<br /><br />&#0160;&#0160;&#0160; B has credibility with C<br /><br />&#0160;&#0160;&#0160; &#0160;&#0160;&#0160; then<br /><br />&#0160;&#0160;&#0160; A has credibility with C<br /><br />And as a corollary to the traditional transitive property, (1) the stronger the credibility between A and B, and (2) the stronger the credibility between B and C, (3) the stronger the credibility between A and C.<br /><br />Needless to say, getting introduced to a VC will not, in and of itself, get you funded.&#0160; I&#39;ve said &quot;no&quot; to many more entrepreneurs who&#39;ve been introduced to me over the years than I have to entrepreneurs who have come un-introduced.&#0160; But I&#39;ve said &quot;yes&quot; to infinitely more who&#39;ve come introduced to me than not.&#0160; If the sample of VC&#39;s with whom I&#39;ve spoken is any indication, getting an introduction to a VC is necessary but not sufficient to get funded.<br /><br />I know that I&#39;m starting to sound like a broken record here on VentureBlog.&#0160; And, yet, I continue to get unsolicited executive summaries every day.&#0160; Which means one of two things:&#0160; either entrepreneurs haven&#39;t taken my advice to heart or they aren&#39;t reading VentureBlog.&#0160; Since I can&#39;t imagine the latter is true, it must be that I have been insufficiently persuasive on the topic.&#0160; So I&#39;ve given it one more try.&#0160; Let&#39;s hope this time will do the trick.&#0160; <br /><br />If you want to pitch me, get an introduction.&#0160; Please.&#0160; <br /><br />Enough said.&#0160; I hope.<br />
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">09/16/2013 in <a href="https://www.ventureblog.com/entrepreneurial-success/">Entrepreneurial Success</a>, <a href="https://www.ventureblog.com/management-issues/">Management Issues</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/09/want-to-get-funded-get-an-introduction.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/09/want-to-get-funded-get-an-introduction.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-entrepreneurial_success entry-category-management_issues entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef0191044c03c6970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/07/success-breeds-success.html">Success Breeds Success</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				Last week I received a fantastic email.&#0160; The email was from the CEO of one of my portfolio companies announcing the promotion of his administrative assistant.&#0160; After three years of doing great work for the CEO, this assistant was promoted into a role in the marketing department.&#0160; As much as the CEO regretted losing such a fantastic assistant, he was truly thrilled to see her progress in her career.&#0160; <br /><br />The email reminded me of yet another reason I think that startups are so special.&#0160; Startups can provide amazing opportunities for career advancement.&#0160; In more established businesses, it is often hard to find room to take on additional responsibilities; and harder still to find space in the organization to progress with one&#39;s career.&#0160; Startups, on the other hand, often grow at such a pace that not only are employees able to take on additional responsibilities, they are required to.&#0160; As a result, smart, hard working individuals -- like the administrative assistant above -- will have doors open in front of them.&#0160; No need to break down doors in the land of the fast-growing startup.&#0160; Just walk on through.<br /><br />True, this upward mobility in startups is also a bit of a double edged sword.&#0160; Startups are brutal meritocracies and employees who fail to meet the expectations of the organization can rather find themselves heading out the door.&#0160; But those who outperform are given ever more responsibility and the opportunity to march up the corporate ladder.<br /><br />Often times in successful startups, the lions share of the glory goes to the founders and CEO.&#0160; And they certainly are deserving of praise.&#0160; But the most successful businesses are an amalgamation of wonderful people at all levels of the organization.&#0160; And as those businesses thrive, they provide opportunities for growth across the organization, which further energizes the company, spurring on more growth.&#0160; The end result is a culture of advancement and success that can not be beaten.&#0160; <br /><br />As I got the note from my portfolio company CEO, It was just another reminder of what success looks like.&#0160; Success is about opportunity.&#0160; And success breeds success.&#0160; I could not be happier for the company.&#0160; But, most importantly, I could not be happier for such a wonderful member of the team.&#0160; Congratulations Jamie!
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">07/18/2013 in <a href="https://www.ventureblog.com/entrepreneurial-success/">Entrepreneurial Success</a>, <a href="https://www.ventureblog.com/management-issues/">Management Issues</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/07/success-breeds-success.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/07/success-breeds-success.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-vcs_around_the_web entry-category-weblogs entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef017d418a8cb8970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/03/ten-years-of-vc-blogging.html">Ten Years of VC Blogging</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Yesterday marked the 10th anniversary of Venture Capital blogging.  How do I know?  Because my first post on VentureBlog was on March 5, 2003 (a pithy little post entitled &quot;<a href="https://www.ventureblog.com/2003/03/im-a-vc-who-the-hell-are-you.html" target="_self" title="I&#39;m a VC. Who the hell are you?">I&#39;m a VC. Who the hell are you?</a>&quot; -- no, it wasn&#39;t a precursors to my post on <a href="https://www.ventureblog.com/2005/10/vcitis.html" target="_self" title="VCitis">Narcissistic Personality Disorder</a>, it was a post about starting your VC presentation with team bios) and before VentureBlog VCs pretty much kept mum.  A lot has changed since 2003.  Now there is barely a venture capital firm out there that doesn&#39;t have at least one blog or blogger.  At a minimum, every VC firm has at least one nano-blogger who shares his or her wisdom in 140 characters or fewer. </p>
+<p>It is hard to imagine that blogging was an innovation for the venture capital industry ten years ago.  But it was.  When I entered the venture business, no one would have thought of blogging.  After all, how could you give away all your best VC secrets?  The venture industry was a black box and the VCs liked it that way.  But that&#39;s not how we saw it. </p>
+<p> 
+Truth be told, VentureBlog was the brain child of Andrew Anker.  Andrew and I worked together at August Capital in the early 2000&#39;s, along with Naval Ravikant.  We were all deeply ensconced in the emergence of social media.  Andrew approached Naval and me and suggested that we start a VC blog.  We discussed the fact that VCs rarely talk about what they do or how they do it.  But we could not come up with a good reason why that was.&#0160; As far as we could tell, there weren&#39;t any real secrets to be had.  So we decided to do the unthinkable and actually write about Venture Capital.
+</p>
+<p>The beauty of being the first bloggers in an industry is that you have a ton to write about.  The world was our oyster.  We could talk about how best to pitch a VC.  We could talk about those technologies that excited us.  We could talk about the many conferences we attended.  No matter what we wrote about, we were the first VCs to discuss it.  And entrepreneurs were clamoring for information about venture capital.  Not surprisingly, the value of this conversation we were having with entrepreneurs was not lost on others in the venture industry.  And soon VC blogs started popping up everywhere we turned.  
+</p>
+<p>There is little question that this marketplace of ideas was incredibly valuable to entrepreneurs.  What was once a black box became a glass box.  Venture investors started writing about everything -- how they analyzed businesses, how they assessed teams, how they derived valuations.  What&#39;s more, VCs started writing not only about the industries in which they were interested, but the very companies they found compelling.  It was a brave new world.  So much so that it was front page news for the venture capital industry -- the Venture Capital Journal ran a <a href="http://www.griequity.com/resources/integraltech/GRIBusinessModel/vcbloggingvcj20050101.html" target="_self" title="Venture Capital Journal: My Life as a Blogger">cover story</a> in January of 2005 entitled &quot;My Life as a Blogger&quot; accompanied by my smiling mug.&#0160;  Ridiculous but true.
+</p>
+<p>Now that ten years have passed, one has to ask if we VC bloggers have learned anything?  Is it all just navel-gazing?  Or is there something to this blogging stuff? The answer is a resounding &quot;yes.&quot;  It is often navel-gazing, but there&#39;s something to it.  Those of us who have spent the last decade or so blogging have gotten a lot of value out of it.  In particular, I find that I learn a ton by articulating a particular point of view, I learn even more engaging in a conversation with entrepreneurs about that particular point of view, and I am able to generate a bunch of attention by actually having a point of view I&#39;m willing to articulate.  The combination is powerful and valuable.
+</p>
+<p>I often find myself espousing the belief that entrepreneurs should not bother writing a business plan.  Business plans are static tomes that are almost assuredly outdated the second they are completed.  So why bother?  The one reason is to better understand and articulate your business.  Some entrepreneurs find the act of memorializing their business in a document to be clarifying.  The same is true of blogging.  If you really want to fully appreciate the strengths and weaknesses of a point of view, articulate it.  I have found that the process of writing about a particular topic can be highly elucidating.  Sometimes I get it <a href="https://www.ventureblog.com/2009/01/enterprise-software-is-not-dead-yet.html" target="_self" title="Enterprice Software is Not Dead Yet">really right</a> and sometimes I got it <a href="[http://www.ventureblog.com/2003/12/conserving-social-capital.html" target="_self" title="Conserving Social Capital">really wrong</a>, but I always have a deeper understanding of the topic when I&#39;ve finished writing about it.
+</p>
+<p>
+The same is true of the conversation that surrounds a well-articulated blog post.  At the outset of blogging, all of that conversation took place in the comments section of the blog itself, or in the posts on other related blogs.  That conversation now extends into the social web.  Commentary on my blog posts appears on Facebook and LinkedIn and Twitter, providing me with an even broader discussion of the relative merits of my points of view.  I quickly learn what resonates with my readers and what does not.
+</p>
+<p>Lastly, blogging has become an incredible megaphone.  Over the years, millions of people have read what I have to say about Venture Capital and entrepreneurship.  What&#39;s more, blogging has given me the ability to connect directly with my readers.  My point of view is not filtered or interpreted by others -- I get to speak for myself.  In combination with the powerful amplification of social platforms like Facebook and Twitter, VentureBlog has proven a valuable tool for me and my firm to rise above the noise.  
+</p>
+<p>I had no idea ten years ago that VentureBlog would prove a catalyst for a whole industry of bloggers.  But I am thrilled that it has.  Not only has blogging provided us venture capitalists with the opportunity to demystify an enigmatic industry.  But, more importantly, it has given entrepreneurs an invaluable resource to assist them in the incredibly challenging task of company creation.  With any luck VentureBlog and the many VC blogs that followed will continue to flourish for years to come.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">03/06/2013 in <a href="https://www.ventureblog.com/vcs-around-the-web/">VCs Around The Web</a>, <a href="https://www.ventureblog.com/weblogs/">Weblogs</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/03/ten-years-of-vc-blogging.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/03/ten-years-of-vc-blogging.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-consumer_internet_media entry-category-entrepreneurial_success entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef017c3748913f970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/03/in-memory-of-jody-sherman.html">In Memory of Jody Sherman</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				I flew down to Santa Monica today to attend a memorial service in celebration of the life of Jody Sherman.&#0160; Along with a hundred and fifty of his closest friends, we shared stories of the Jody we remembered.&#0160; We celebrated his incredible spirit.&#0160; More than a few tears were shed, including a ton of my own.&#0160; And while many of us wondered aloud how such a positive force in all of our lives could possibly have taken his own, our speculation wasn&#39;t vulgar rumor mongering.&#0160; It was genuine astonishment.&#0160; The Jody we knew seemed like an unadulterated optimist.&#0160; The Jody we knew spent his every day bringing others joy.&#0160; The Jody we knew was a force for good.&#0160; But apparently the Jody we knew wasn&#39;t the whole Jody.&#0160; If only we had known. <br /><br />Story after story today made clear why Jody was so special.&#0160; Jody was unendingly giving of himself to others.&#0160; And Jody was honest and direct, to a fault.&#0160; In combination these traits made him an amazing mentor.&#0160; Jody was the confidant of innumerable entrepreneurs.&#0160; They turned to him for help and could count on his un-judgmental but critical advice.&#0160; Jody didn&#39;t believe in complacency.&#0160; He was one of the hardest working guys you&#39;d ever meet.&#0160; But there was no such thing as work for work&#39;s sake.&#0160; Jody lived his life with a purpose and taught entrepreneurs that same single-minded resolve.&#0160; Today&#39;s memorial service was full of recipients of Jody&#39;s tough love.&#0160; But no one focused on the toughness.&#0160; Everyone focused on the love.&#0160; That&#39;s what shined through.&#0160; <br /><br />I will greatly miss Jody.&#0160; He was a wonderful friend to so many of us.&#0160; And all we could think today was &quot;too soon. too soon.&quot;
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">03/04/2013 in <a href="https://www.ventureblog.com/consumer-internet-media/">Consumer Internet & Media</a>, <a href="https://www.ventureblog.com/entrepreneurial-success/">Entrepreneurial Success</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/03/in-memory-of-jody-sherman.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/03/in-memory-of-jody-sherman.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-consumer_electronics_gadgets entry-category-consumer_internet_media entry-category-podcast entry-category-venturecast entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef017d40de46ac970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/02/do_vcs_find_mobile_interesting.html">Do VCs Find Mobile Interesting?</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>It has been a while since the last time I had a guest post on VentureBlog.&#0160; But it seems only natural for <a href="http://www.augustcap.com/www.augustcap.com/team/howard_hartenbaum/" target="_self">Howard Hartenbaum</a>, my partner at August Capital, to be posting here.&#0160; Howard and I do a podcast together called <a href="https://itunes.apple.com/us/podcast/venturecast/id202515987#" target="_self">VentureCast</a> that is really fun (at least fun to do -- I&#39;ll let you be the judge of how much fun it is to listen to).&#0160; He is a consumer Web superstar (among other things, he was the first investor in Skype and played a major role in the emergence of Skype as a powerhouse).&#0160; In any event, Howard has been doing a lot of thinking about the mobile space, so he decided to share his thoughts on the &quot;emerging&quot; mobile space.&#0160; Without any further ado, some thoughts on the mobile space by Howard Hartenbaum:</p>
+<p>&#0160;</p>
+<p>“Do VCs find mobile interesting?”&#0160; I know that I do.&#0160; And so do the partners at August Capital.&#0160; Every VentureBlog reader must have a location aware smartphone in their pockets by now.&#0160; Mobile is a game changer. It enables new business models, new consumer and enterprise services, and a better life with more fun.&#0160; While mobile, I regularly pay bills, get caught up on Facebook and check on the status of my family without having to disturb them.&#0160; I find my smartphone to be the most useful consumer device I have ever owned and it is hard to conceive leaving the house without it.</p>
+<p>Here are a few classes of “mobile” that VCs get excited about:</p>
+<ol>
+<li>Companies that provide tools and services needed to make mobile applications and their business models work.&#0160; These include Flurry (mobile analytics), AdMob (mobile advertising) and Urban Airship (mobile push messaging) to name a few.&#0160; These are solutions for mobile application developers and these companies have straightforward business models that make sense for a venture investor.</li>
+<li>Mobile applications that use your device’s location to enable new services.&#0160; Uber and Lyft/Sidecar (ordering a ride when you need it), HotelTonight and Airbnb (find a place to stay overnight). There’s also Wrapp (mobile gift card gifting with in-store redemption) and Gigwalk (provides a mobile workforce of more than 100,000 across the US that can perform paid tasks for enterprise customers).&#0160; These businesses take a percentage of a transaction, again a straightforward business.&#0160; Another interesting service based on device location is Life360 (enables you to track the location of your family/friends in real time without disturbing them with a text or call).&#0160;</li>
+<li>Mobile applications that control non-mobile products and services such as Nest (mobile control of building thermostats) or eSecure (mobile control of building alarm systems).&#0160; The mobile application to control my Dish Network recording also falls into this camp.&#0160; These mobile applications make other services much more useful and are reason enough to convince me to buy those services, even if no money is generated directly from the mobile application. <a href="https://turo.com/" target="_blank">Turo</a>, a peer-to-peer car rental service, has a mobile application that allows me to open a GM OnStar rental car’s door without a key.&#0160; These types of mobile applications make a solution more useful because they provide on-the-go access.</li>
+<li>Mobile payments such as Square take a transaction fee, and they can also provide loyalty programs and couponing. &#0160;There are many mobile payments related companies with their own twist, but they all have a strong value proposition for all parties involved.</li>
+<li>Mobile games – Angry Birds, Minecraft, most of the top applications in the app store are games.&#0160; Though it is a hit driven business, the winners generate hundreds of millions of dollars in sales.&#0160;</li>
+<li>Photo applications include Instagram, Cinemagram and Snapchat.&#0160; Mobile messaging applications include WhatsApp, Voxer, Tango and Kik. &#0160;These companies typically don’t have early proven business models, but the winners at scale can figure it out.&#0160; These types of products are often the most useful and engaging on a smartphone.</li>
+</ol>
+<p>The wildcard – As a venture investor, the most interesting part of mobile is what hasn’t been proposed yet.&#0160; Undoubtedly there are visionary entrepreneurs who are designing mobile products right now that don’t fit in any of the above categories. &#0160;The next big thing may be a service that comes across as a bit unusual at first, but these are the kind of “brave new world” business proposals that we want to see. The best part about being a venture investor is meeting these entrepreneurs and hearing these proposals.&#0160;</p>
+<p>Note – August Capital is an investor in Gigwalk, Urban Airship and Turo.&#0160; Howard is an investor in Flurry.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">02/07/2013 in <a href="https://www.ventureblog.com/consumer-electronics-gadgets/">Consumer Electronics & Gadgets</a>, <a href="https://www.ventureblog.com/consumer-internet-media/">Consumer Internet & Media</a>, <a href="https://www.ventureblog.com/podcast/">Podcast</a>, <a href="https://www.ventureblog.com/venturecast/">VentureCast</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/02/do_vcs_find_mobile_interesting.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/02/do_vcs_find_mobile_interesting.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+	<div class="entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef017c3681d92c970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/02/secondary-market-stupidity.html">Secondary Market Stupidity</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>I have heard of short term memory, but this borders on amnesia.&#0160; Were the buyers in this latest secondary transaction (<a href="http://finance.fortune.cnn.com/2013/02/01/exclusive-twitter-nears-10-billion-valuation/" target="_blank" title="Exclusive: Twitter nears $10 billion valuation">Twitter at $10B</a>) asleep during the Facebook IPO?&#0160; Did they miss the part where lots of well intentioned &quot;investors&quot; bought Facebook shares at $80B, $90B, $100B, only to see the shares trade down to a fraction of that value?&#0160; Did they somehow overlook the catastrophic secondary transactions that preceded the Groupon and Zynga IPOs?<br /><br />Don&#39;t get me wrong.&#0160; This is not a commentary on Twitter as a company.&#0160; I&#39;m a fan of Twitter.&#0160; I&#39;m a big believer in Dick Costolo.&#0160; And I have seen the massive value of Twitter as a service.&#0160; But the buying behavior we have seen in the secondary markets makes no sense.&#0160; What do these buyers of secondary shares actually know about the <em>business</em> of Twitter?&#0160; Do they have any idea what the revenues are?&#0160; Do they have any idea what the cost structure is?&#0160; Do they know how much preferrence sits in front of the common stock they&#39;re buying?&#0160; Do they know how much debt the company has on its books?<br /><br />Several yeas ago an investor called me to discuss Splunk.&#0160; He had the opportunity to buy a number of Splunk shares on the secondary market.&#0160; He asked me how the company was doing.&#0160; I shared some vague platitudes about what a fan of Splunk I was.&#0160; He then asked me what Splunks revenues were.&#0160; I told him that I would not reveal that information.&#0160; He asked me if Splunk intended to go public or sell to a strategic.&#0160; I assured him that either was possible and that I had no intention of sharing anything more about the company&#39;s strategy. He was undaunted.&#0160; He continued to ask me probing questions about the inner workings of the company.&#0160; I grew increasingly curt with him.<br /><br />After asking me several more&#0160; questions about Splunk&#39;s business, I snapped at him.&#0160; I told him that the information he was seeking was confidential and therefor I would not share it.&#0160; I then told him that one of two things was going to happen.&#0160; Either he was going to acquire that information inappropriately, or he was going to make an uninformed investment decision.&#0160; In other words, if he bought the shares on the secondary market, he was either a jerk or a dope.* <br /><br />Now I suppose there&#39;s a possibility that these latest secondary buyers had full access to Twitter&#39;s financials.&#0160; But I doubt it.&#0160; I suspect that they, like many of the secondary buyers prior to Facebook&#39;s IPO, Groupon&#39;s IPO, Zynga&#39;s IPO...are betting, not investing.&#0160; What will it take to shake some sense into these secondary market &quot;investors&quot;?&#0160; I don&#39;t know.&#0160; But, apparently they haven&#39;t been shaken enough yet.&#0160; The secondary market stupidity continues. </p>
+<p>&#0160;</p>
+<p>* I think I actually told him that if he bought the Splunk shares he was either &quot;a scumbag or a moron.&quot;&#0160; </p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">02/01/2013 </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/02/secondary-market-stupidity.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/02/secondary-market-stupidity.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+	<div class="entry-category-entrepreneurial_success entry-category-management_issues entry-category-the_deal entry-category-the_economy_finance entry-author-david_hornik entry-type-post entry" id="entry-6a00d8341d157b53ef017c363e4fbd970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.ventureblog.com/2013/01/pick-your-angel-investors-wisely.html">Pick Your Angel Investors Wisely</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>A great deal has been written about angel investing in recent years.  Angel investing has become the sport of choice for many successful entrepreneurs in Silicon Valley (e.g., <a href="http://davemorin.com/" target="_blank">Dave Morin</a>, <a href="https://en.wikipedia.org/wiki/Christopher_Michel" target="_blank">Chris Michel</a>, <a href="http://www.crunchbase.com/person/ariel-poler" target="_blank">Ariel Poler</a>, etc.).  What&#39;s more, it has spawned a whole new class of venture funds -- once called Super Angels, now called Micro VCs (e.g., <a href="http://firstround.com/" target="_blank">First Round Capital</a>, <a href="http://www.trueventures.com/" target="_blank">True Ventures</a>, <a href="http://softtechvc.com/" target="_blank">SoftTech VC</a>, etc.).  And now traditional venture investors (e.g., Greylock Capital, Andreessen Horowitz, CRV, etc.) have created programs to invest small amounts of money in large numbers of startups.  Unfortunately, as seed investing moves from a boutique practice to more mass market, its value is diminished dramatically.
+</p>
+<p>As a general matter, I think that more seed funding is a great thing.  It is certainly beneficial -- often times essential -- for small companies to raise a little bit of money to help validate an idea or market.   But historically one of the most valuable things about angel investment was that it was accompanied by an angel.  That angel wouldn&#39;t just invest in the company, he or she would serve as an indispensable advisor to the company as well.  Not only did you get money to propel your business forward, you also got the help of someone who had run the startup gauntlet before you.
+</p>
+<p>Regrettably, what once was a boutique business has in many instances become mass market.  While there are some angels and Micro VCs can provide meaningful time and attention to their entrepreneurs, there are a number of folks out there who think that angel investing is a volume business.  Needless to say, as the number of companies financed by any given investor grows, the amount of help that investor can give to each company diminishes proportionally.  These investments become more about the placing of bets than they do about helping entrepreneurs succeed.
+</p>
+<p>Sure, some of these stock pickers will make some good bets and even make some money.  But it won&#39;t be any thanks to them.  As a general matter, early stage entrepreneurs don&#39;t just need money, they need help and advice.  And if help is no longer part of what you get from your seed investors, I believe the likely success of those investments will diminish.
+</p>
+<p>
+Worse yet, taking seed investment from traditional venture investors can be counter-productive.  It is impossible to imagine how a VC firm that is investing in dozens of early stage startups can find the time to be helpful while also working with their more traditional portfolio.  You may get a little of their money and a little of their reputation, but you will get it at the expense of any real help in building your business. </p>
+<p> 
+So why have VC funds started investing in seed rounds?  They do it because they think it gives them an option on future financings.  By putting a little bit of money into a company&#39;s seed round, they get a seat at the table.  And from that seat, in theory, they can keep track of how well it is going and preemptively finance the &quot;best&quot; companies that they&#39;ve seed funded.  The only problem with the theory is that these traditional VCs don&#39;t have the time or capacity to actually keep track of all the companies they&#39;ve seed funded.  So they aren&#39;t capable of being pre-emptive.  Instead, they expect an early look at any Series A financing, despite the fact that they haven&#39;t earned the right by actually being helpful to the companies they have seeded.   
+</p>
+<p>More importantly, traditional VCs are incapable of providing one of the most important and valuable angel services -- introductions to future investors.  As is becoming increasingly clear, investment is the life blood of the startup world.  The problem that companies seed funded by traditional VCs have is that there is a natural assumption that any company that does not receive follow-on funding from its earlier VC investor is fundamentally broken.  There is virtually nothing that a VC can say in his or her introduction to other investors that won&#39;t raise eyebrows.  So taking angel money from a traditional venture investor is a bet on that firm funding your Series A.  Unfortunately, if that doesn&#39;t work out, you&#39;re back is up against the wall. [1]
+</p>
+<p>It is true that money is fungible.  But investors are not.  The choices you make when raising seed capital can have a meaningful impact on the long-term success of your startup.  So find investors who will bring you value beyond the dollars in your bank account.  Find investors with the time and inclination to help you.  Find investors who will increase your chances of raising additional capital, not diminish those chances.  Great angel investors are invaluable.  So pick your partners well.
+</p>
+<p>&#0160;</p>
+<p>
+[1] On the rare occasion that my partners and I seed fund a startup, we work hard to alleviate the concerns I&#39;ve described above.  We only invest in a very small number of seed stage opportunities and we commit meaningful time and attention to those businesses, often going on the board (for example, I was the earliest investor in the likes of <a href="https://www.wepay.com/" target="_blank">WePay</a> and <a href="http://www.splunk.com/" target="_blank">Splunk</a>).  Moreover, we take a substantial lead role in the seed financing, so there is no negative presumption when we introduce the company to our VC friends for the next round of financing.  We will invest along side the new VC, but have no need to lead the Series A ourselves.  Needless to say, this approach won&#39;t scale to dozens of startups.  But it will increase the likelihood that those business we seed fund are successful.</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">01/25/2013 in <a href="https://www.ventureblog.com/entrepreneurial-success/">Entrepreneurial Success</a>, <a href="https://www.ventureblog.com/management-issues/">Management Issues</a>, <a href="https://www.ventureblog.com/the-deal/">The Deal</a>, <a href="https://www.ventureblog.com/the-economy-finance/">The Economy & Finance</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.ventureblog.com/2013/01/pick-your-angel-investors-wisely.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-favorite"></span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <fb:like href="https://www.ventureblog.com/2013/01/pick-your-angel-investors-wisely.html" layout="button_count" show_faces="false"></fb:like>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://www.ventureblog.com/page/2/"><span class="pager-label">Next</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+
+<!-- container-footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+	<div id="footer-inner">
+		<ul class="footer-list pkg">
+
+<li class="footer-list-item"><a href="https://creativecommons.org/licenses/by/1.0/">Licensed under Creative Commons Attribution 1.0 Generic</a></li>
+
+   <li class="last-footer-list-item footer-list-item"><a href="http://www.typepad.com/">Powered by TypePad</a></li>
+</ul>
+
+	</div>
+</div></div>
+</div>
+
+		</div>
+	</div>
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=86835914389886732&amp;user_id=22567&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-12633787-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
